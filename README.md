@@ -38,7 +38,7 @@ Code editor (e.g., Visual Studio Code).
 Clone the repository:
 
 **bash**
-git clone <https://github.com/yourusername/ecommerce-website.git>
+git clone <https://github.com/MVENKATESH786/Vicky-s-Virtual-Shop.git>
 cd ecommerce-website
 Open the project in your code editor:
 
